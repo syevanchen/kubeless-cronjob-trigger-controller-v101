@@ -1,0 +1,1 @@
+FROM kubeless/cronjob-trigger-controller:v1.0.1
